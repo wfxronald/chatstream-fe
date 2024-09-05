@@ -1,8 +1,9 @@
-# React + Vite
+## chatstream-fe: Based on React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple mock implementation of stream display on React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to setup the project
+1. Install `node` and `npm`
+2. Run `npm install`
+3. Run `npm run dev`
+4. The webpage is accessible on http://localhost:5173
